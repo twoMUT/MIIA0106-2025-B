@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../LAB04 07/LAB04 07.vcxproj" />
+  <Project Path="LAB04 06.vcxproj" />
+</Solution>
