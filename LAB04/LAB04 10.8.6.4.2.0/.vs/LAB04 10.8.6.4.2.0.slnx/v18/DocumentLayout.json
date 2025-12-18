@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test1\\MIIA0106-2025-B\\LAB04\\LAB04 10.8.6.4.2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A157B372-C0AA-48B9-8392-75B1AE983CC9}|LAB04 10.8.6.4.2.0.vcxproj|D:\\test1\\MIIA0106-2025-B\\LAB04\\LAB04 10.8.6.4.2.0\\LAB04 10.8.6.4.2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A157B372-C0AA-48B9-8392-75B1AE983CC9}|LAB04 10.8.6.4.2.0.vcxproj|solutionrelative:LAB04 10.8.6.4.2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB04 10.8.6.4.2.0.cpp",
+              "DocumentMoniker": "D:\\test1\\MIIA0106-2025-B\\LAB04\\LAB04 10.8.6.4.2.0\\LAB04 10.8.6.4.2.0.cpp",
+              "RelativeDocumentMoniker": "LAB04 10.8.6.4.2.0.cpp",
+              "ToolTip": "D:\\test1\\MIIA0106-2025-B\\LAB04\\LAB04 10.8.6.4.2.0\\LAB04 10.8.6.4.2.0.cpp",
+              "RelativeToolTip": "LAB04 10.8.6.4.2.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T05:39:45.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
